@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\bin\Debug\HeadTail.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\bin\Debug\HeadTail.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\bin\Debug\HeadTail.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\obj\Debug\HeadTail.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\obj\Debug\HeadTail.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\obj\Debug\HeadTail.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\obj\Debug\HeadTail.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\obj\Debug\HeadTail.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\obj\Debug\HeadTail.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week1\HeadTail\obj\Debug\HeadTail.Form1.resources
